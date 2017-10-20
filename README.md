@@ -6,7 +6,8 @@ A list of solutions to of various problems that are encountered while coding.
 ## Contents ##
 - [Git](#git)
 - [Linux](#linux)
-
+- [Java](#java)
+- [ROS](#ros)
 
 
 ## Git ##
@@ -18,3 +19,11 @@ A list of solutions to of various problems that are encountered while coding.
 
 ## Linux ##
 [back to top](#readme)
+
+## Java ##
+[back to top](#readme)
+* [Installing JDK in Ubuntu](https://stackoverflow.com/questions/14788345/how-to-install-jdk-on-ubuntu-linux)
+
+## ROS ##
+[back to top](#readme)
+* [Installing Netbeans ros pack](https://www.youtube.com/watch?v=AHX6gaz6WQA)
