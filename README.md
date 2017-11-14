@@ -19,6 +19,7 @@ A list of solutions to of various problems that are encountered while coding.
 
 ## Linux ##
 [back to top](#readme)
+* [Setting Up CUDA and cuDNN on Ubuntu 16.04](http://sangeetmishra.me/2017/11/14/cuda-setup.html)
 
 ## Java ##
 [back to top](#readme)
