@@ -18,6 +18,7 @@ An awesome list of links to solutions of various problems that are encountered b
 ## Linux ##
 [back to top](#readme)
 * [Setting Up CUDA and cuDNN on Ubuntu 16.04](http://sangeetmishra.me/2017/11/14/cuda-setup.html)
+* [Setting Up OpenCV on Ubuntu 16.04](https://www.learnopencv.com/install-opencv3-on-ubuntu/)
 
 ## Java ##
 [back to top](#readme)
