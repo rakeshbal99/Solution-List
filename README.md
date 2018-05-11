@@ -5,6 +5,7 @@ An awesome list of links to solutions of various problems that are frequently en
 - [Git](#git)
 - [Linux](#linux)
 - [Java](#java)
+- [Docker](#docker)
 - [ROS](#ros)
 - [Markdown](#markdown)
 
@@ -20,10 +21,15 @@ An awesome list of links to solutions of various problems that are frequently en
 [back to top](#readme)
 * [Setting Up CUDA and cuDNN on Ubuntu 16.04](http://sangeetmishra.me/2017/11/14/cuda-setup.html)
 * [Setting Up OpenCV on Ubuntu 16.04](https://www.learnopencv.com/install-opencv3-on-ubuntu/)
+* [Resolve Unmet Dependencies after adding PPA](https://askubuntu.com/questions/140246/how-do-i-resolve-unmet-dependencies-after-adding-a-ppa#comment169882_140246)
 
 ## Java ##
 [back to top](#readme)
 * [Installing JDK in Ubuntu](https://stackoverflow.com/questions/14788345/how-to-install-jdk-on-ubuntu-linux)
+
+## Docker ##
+[back to top](#readme)
+* [Download Images Behind Proxy](https://stackoverflow.com/questions/23111631/cannot-download-docker-images-behind-a-proxy/28093517#28093517)
 
 ## ROS ##
 [back to top](#readme)
