@@ -16,6 +16,7 @@ An awesome list of links to solutions of various problems that are frequently en
 * [Syncing A Fork(GitHub)](https://help.github.com/articles/syncing-a-fork/)
 * [Syncing Local Repo with Remote Repo(Stack Overflow)](https://stackoverflow.com/questions/6373277/git-sync-local-repo-with-remote-one)
 * [Adding A LICENSE to a Repo](https://help.github.com/articles/adding-a-license-to-a-repository/)
+* [Ignoring Files](https://help.github.com/articles/ignoring-files/)
 
 ## Linux ##
 [back to top](#readme)
