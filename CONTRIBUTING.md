@@ -23,7 +23,7 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 ### How to send a Pull request .
 1. Fork this repository.
 
-2. Add resorces if the they do not exists yet. 
+2. Add resorces if the they do not exist yet. 
 
 3. Commit, Push and Thank you for sharing!
 
