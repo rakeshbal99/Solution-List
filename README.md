@@ -1,5 +1,5 @@
 # Solution-List[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rakeshbal99/Solution-List)
-An awesome list of links to solutions of various problems that are frequently encountered by coders.
+An awesome list of links to solutions of various problems that are frequently encountered by programmers.
 
 ## Table Of Contents ##
 - [Git](#git)
