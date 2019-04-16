@@ -5,6 +5,7 @@ An awesome list of links to solutions of various problems that are frequently en
 - [Git](#git)
 - [Linux](#linux)
 - [HTML](#html)
+- [Python](#python)
 - [Java](#java)
 - [Docker](#docker)
 - [ROS](#ros)
@@ -30,6 +31,10 @@ An awesome list of links to solutions of various problems that are frequently en
 ## HTML ##
 [back to top](#readme)
 * [Make Offline Mirror of a Site using `wget`](https://www.guyrutenberg.com/2014/05/02/make-offline-mirror-of-a-site-using-wget/)
+
+## Python ##
+[back to top](#readme)
+* [Split string with multiple delimiters in Python](https://stackoverflow.com/questions/4998629/split-string-with-multiple-delimiters-in-python)
 
 ## Java ##
 [back to top](#readme)
