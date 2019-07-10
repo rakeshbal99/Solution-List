@@ -6,6 +6,7 @@ An awesome list of links to solutions of various problems that are frequently en
 - [Linux](#linux)
 - [HTML](#html)
 - [Python](#python)
+- [Pytorch](#pytorch)
 - [Java](#java)
 - [Docker](#docker)
 - [ROS](#ros)
@@ -35,6 +36,10 @@ An awesome list of links to solutions of various problems that are frequently en
 ## Python ##
 [back to top](#readme)
 * [Split string with multiple delimiters in Python](https://stackoverflow.com/questions/4998629/split-string-with-multiple-delimiters-in-python)
+
+## PyTorch ##
+[back to top](#readme)
+* [Print extracted learned weights](https://discuss.pytorch.org/t/how-to-extract-learned-weights-correctly/4295)
 
 ## Java ##
 [back to top](#readme)
