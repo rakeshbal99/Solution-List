@@ -28,6 +28,7 @@ An awesome list of links to solutions of various problems that are frequently en
 * [Setting Up OpenCV on Ubuntu 16.04](https://www.learnopencv.com/install-opencv3-on-ubuntu/)
 * [List all users in terminal](https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-add-delete-modify-users)
 * [Resolve Unmet Dependencies after adding PPA](https://askubuntu.com/questions/140246/how-do-i-resolve-unmet-dependencies-after-adding-a-ppa#comment169882_140246)
+* [Run alias as `sudo`](https://linuxhandbook.com/run-alias-as-sudo/)
 
 ## HTML ##
 [back to top](#readme)
